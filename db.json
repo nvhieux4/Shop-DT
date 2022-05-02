@@ -169,6 +169,216 @@
       "category": "1-SamSung",
       "title": "Galaxy S21+ 5G là smartphone cao cấp đáng sử dụng nhất hiện nay. Thiết kế đẳng cấp, cấu hình siêu mạnh, camera chụp ảnh tuyệt đẹp, màn hình thời thượng,... là nhưng gì phiên bản “Plus” thuộc dòng Galaxy S21 sẽ đem đến cho người dùng.Samsung Galaxy S21+ 5G – Đột phá trong phong cách thiết kế\n\nBộ 3 Galaxy S21 là \"tiếng súng\" mở màn của Samsung trong năm 2021. Bên cạnh phiên bản tiêu chuẩn và phiên bản cao cấp, Galaxy S21+ 5G là cái tên gây được sự chú ý nhiều nhất. Mẫu điện thoại mới của Samsung sở hữu ngoại hình toàn toàn mới mang tính đột phá về thiết kế.Tương tự hai \"người anh em\" của mình, Galaxy S21+ 5G được trang bị khung viền kim loại nguyên khối có độ hoàn thiện xuất sắc đem đến cảm giác rất đầm tay khi cầm. Và đặc biệt giúp máy trở lên sang trọng và đẳng cấp hơn.\n\nĐiểm đáng chú ý nhất trong thiết kế của S21+ 5G chính là cụm camera hình chiếc lá tràn viền vô cùng độc đáo. Đây cũng chính là điểm nhấn trên dòng Galaxy S21 series năm nay của Samsung.",
       "id": 11
+    },
+    {
+      "name": "Iphone 14 pro max phiên bản có bộ nhớ 320GB",
+      "price": "12000000",
+      "time": "15:15-12/07/2021",
+      "img": "./assets/img/iphone12.jpg",
+      "category": "3-IPhone",
+      "title": "iPhone 12 Pro Max – một trong những lựa chọn đẳng cấp nhất dành cho khách hàng thích trải nghiệm mạnh mẽ, màn hình lớn và có mức giá cao nhất trong 4 chiếc iPhone ra mắt năm nay.Cùng Viettel Store đánh giá xem liệu sản phẩm này có điểm gì nổi bật nhé.",
+      "salePro": "8",
+      "pricePromotion": "11040000",
+      "colors": [
+        "vàng",
+        "đen",
+        "đỏ"
+      ],
+      "imgSub": [
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg"
+      ],
+      "id": 12
+    },
+    {
+      "name": "Iphone 14 pro max phiên bản có bộ nhớ 120GB",
+      "price": "12000000",
+      "time": "15:15-12/07/2021",
+      "img": "./assets/img/iphone12.jpg",
+      "category": "3-IPhone",
+      "title": "iPhone 12 Pro Max – một trong những lựa chọn đẳng cấp nhất dành cho khách hàng thích trải nghiệm mạnh mẽ, màn hình lớn và có mức giá cao nhất trong 4 chiếc iPhone ra mắt năm nay.Cùng Viettel Store đánh giá xem liệu sản phẩm này có điểm gì nổi bật nhé.",
+      "salePro": "8",
+      "pricePromotion": "11040000",
+      "colors": [
+        "vàng",
+        "đen",
+        "đỏ"
+      ],
+      "imgSub": [
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg"
+      ],
+      "id": 13
+    },
+    {
+      "name": "Iphone 14 pro max phiên bản có bộ nhớ 248GB",
+      "price": "12000000",
+      "time": "15:15-12/07/2021",
+      "img": "./assets/img/iphone12.jpg",
+      "category": "3-IPhone",
+      "title": "iPhone 12 Pro Max – một trong những lựa chọn đẳng cấp nhất dành cho khách hàng thích trải nghiệm mạnh mẽ, màn hình lớn và có mức giá cao nhất trong 4 chiếc iPhone ra mắt năm nay.Cùng Viettel Store đánh giá xem liệu sản phẩm này có điểm gì nổi bật nhé.",
+      "salePro": "8",
+      "pricePromotion": "11040000",
+      "colors": [
+        "vàng",
+        "đen",
+        "đỏ"
+      ],
+      "imgSub": [
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg"
+      ],
+      "id": 14
+    },
+    {
+      "name": "Iphone 14 pro max phiên bản có bộ nhớ 28GB",
+      "price": "12000000",
+      "time": "15:15-12/07/2021",
+      "img": "./assets/img/iphone12.jpg",
+      "category": "3-IPhone",
+      "title": "iPhone 12 Pro Max – một trong những lựa chọn đẳng cấp nhất dành cho khách hàng thích trải nghiệm mạnh mẽ, màn hình lớn và có mức giá cao nhất trong 4 chiếc iPhone ra mắt năm nay.Cùng Viettel Store đánh giá xem liệu sản phẩm này có điểm gì nổi bật nhé.",
+      "salePro": "8",
+      "pricePromotion": "11040000",
+      "colors": [
+        "vàng",
+        "đen",
+        "đỏ"
+      ],
+      "imgSub": [
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg"
+      ],
+      "id": 15
+    },
+    {
+      "name": "Iphone 14 pro max phiên bản có bộ nhớ 1GB",
+      "price": "12000000",
+      "time": "15:15-12/07/2021",
+      "img": "./assets/img/iphone12.jpg",
+      "category": "3-IPhone",
+      "title": "iPhone 12 Pro Max – một trong những lựa chọn đẳng cấp nhất dành cho khách hàng thích trải nghiệm mạnh mẽ, màn hình lớn và có mức giá cao nhất trong 4 chiếc iPhone ra mắt năm nay.Cùng Viettel Store đánh giá xem liệu sản phẩm này có điểm gì nổi bật nhé.",
+      "salePro": "8",
+      "pricePromotion": "11040000",
+      "colors": [
+        "vàng",
+        "đen",
+        "đỏ"
+      ],
+      "imgSub": [
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg"
+      ],
+      "id": 20
+    },
+    {
+      "name": "Iphone 14 pro max phiên bản có bộ nhớ 32GB",
+      "price": "12000000",
+      "time": "15:15-12/07/2021",
+      "img": "./assets/img/iphone12.jpg",
+      "category": "3-IPhone",
+      "title": "iPhone 12 Pro Max – một trong những lựa chọn đẳng cấp nhất dành cho khách hàng thích trải nghiệm mạnh mẽ, màn hình lớn và có mức giá cao nhất trong 4 chiếc iPhone ra mắt năm nay.Cùng Viettel Store đánh giá xem liệu sản phẩm này có điểm gì nổi bật nhé.",
+      "salePro": "8",
+      "pricePromotion": "11040000",
+      "colors": [
+        "vàng",
+        "đen",
+        "đỏ"
+      ],
+      "imgSub": [
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg"
+      ],
+      "id": 21
+    },
+    {
+      "name": "Iphone 14 pro max phiên bản có bộ nhớ 64GB",
+      "price": "12000000",
+      "time": "15:15-12/07/2021",
+      "img": "./assets/img/iphone12.jpg",
+      "category": "3-IPhone",
+      "title": "iPhone 12 Pro Max – một trong những lựa chọn đẳng cấp nhất dành cho khách hàng thích trải nghiệm mạnh mẽ, màn hình lớn và có mức giá cao nhất trong 4 chiếc iPhone ra mắt năm nay.Cùng Viettel Store đánh giá xem liệu sản phẩm này có điểm gì nổi bật nhé.",
+      "salePro": "10",
+      "pricePromotion": "10800000",
+      "colors": [
+        "vàng",
+        "đen",
+        "đỏ"
+      ],
+      "imgSub": [
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg",
+        "./assets/img/iphone12.jpg"
+      ],
+      "id": 22
+    },
+    {
+      "colors": [
+        "Trắng",
+        " xanh",
+        " tím",
+        " đen"
+      ],
+      "imgSub": [
+        "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1973000463.jpeg",
+        "https://cdn3.viettelstore.vn/Images/Product/ProductImage/small/412956427.jpeg",
+        "https://cdn3.viettelstore.vn/Images/Product/ProductImage/small/40193199.jpeg"
+      ],
+      "name": "Samsung Galaxy A32 8G",
+      "img": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1359768390.jpeg",
+      "time": "02:13-01/08/2021",
+      "price": "6290000",
+      "salePro": "5",
+      "pricePromotion": "5975500",
+      "category": "1-SamSung",
+      "title": "Samsung Galaxy A32 4G là mẫu smartphone tầm trung mới vừa được trình làng. Ngoài thiết kế tượng tự phiên bản 5G, Galaxy A32 4G còn sở hữu nhiều ưu điểm vượt trội như: camera 64MP, pin trâu 5.000 mAh, màn hình sắc nét, cấu hình mạnh mẽ, giá bán hợp lý.Galaxy A32 4G được hoàn thiện từ chất liệu nhựa trong đó mặt lưng được làm giả kính đem đến sự bóng bẩy và sang trọng cho máy. Các góc cạnh được bo cong mềm mại tạo được sự thoải mái cho người dùng khi cầm trên tay.Thiết kế Samsung Galaxy A32 4G y chang phiên bản 5G và nổi bật nhất là các ống kính camera phía sau được thiết kế theo phong cách đặc biệt, không giống bất kỳ mẫu smartphone nào hiện nay. Chính điểm này đã tạo nên sự đặc biệt cho A32 4G.",
+      "id": 23
+    },
+    {
+      "colors": [
+        "trắng",
+        " xanh",
+        " đen"
+      ],
+      "imgSub": [
+        "https://cdn3.viettelstore.vn/Images/Product/ProductImage/small/934337371.jpeg",
+        "https://cdn3.viettelstore.vn/Images/Product/ProductImage/small/1754284142.jpeg",
+        "https://cdn3.viettelstore.vn/Images/Product/ProductImage/small/1817884851.jpeg"
+      ],
+      "name": "Samsung Galaxy A12",
+      "img": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1842718210.jpeg",
+      "time": "02:18-01/08/2021",
+      "price": "3990000",
+      "salePro": "5",
+      "pricePromotion": "3790500",
+      "category": "1-SamSung",
+      "title": "Samsung Galaxy A12 rất được ưu ái khi sở hữu cụm camera mới, nhiều ống kính hơn và 1 viên pin dung lượng khủng. Phiên bản kế nhiệm của Galaxy A11 chắc chắn sẽ đem đến những trải nghiệm mới thú vị hơn.\nGalaxy A12 sở hữu ngoại hình thân quen tương tự các mẫu smartphone khác cùng phân khúc của Samsung. Máy sử dụng ngôn ngữ thiết kế nguyên khối tạo cảm giác cứng cáp và chắc chắn khi sử dụng. Mặt trước máy đi kèm màn hình Infinity-V chứa camera selfie.",
+      "id": 24
+    },
+    {
+      "colors": [
+        "Trắng",
+        "đen"
+      ],
+      "imgSub": [
+        "https://cdn1.viettelstore.vn/Images/Product/ProductImage/2092582187.jpeg",
+        "https://cdn3.viettelstore.vn/Images/Product/ProductImage/small/362306184.jpeg",
+        "https://cdn1.viettelstore.vn/Images/Product/ProductImage/271300846.jpeg"
+      ],
+      "name": "OPPO Reno6 Z 5G",
+      "img": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1345107338.jpeg",
+      "time": "10:35-01/08/2021",
+      "price": "9490000",
+      "salePro": "0",
+      "pricePromotion": "9490000",
+      "category": "1-SamSung",
+      "title": "\nMàn hình:\t6.43 inch, màn hình đục lỗ; AMOLED; Gorilla Glass 5; 1080 x 2400 (FHD+); 16 triệu màu\nCPU:\tMTK Dimensity 800U 5G, tối đa 2.4GHz; Mali-G57 MC3\nRAM:\t8GB\nCamera sau:\t64MP (Chính) + 8MP (Góc rộng) + 2MP (Marco); F/1.7 + F/2.2 + F/2.4; Đèn flash sau\nCamera trước:\t32MP; F/2.4\nBộ nhớ trong:\t128GB\nThẻ nhớ:\t1 thẻ nhớ, Hỗ trợ thẻ nhớ tối đa 256GB\nHỗ trợ đa sim:\tDual nano-SIM\nHệ điều hành:\tColorOS 11.1, nền tảng Android 11\nWifi:\t2.4G/5G, 802.11 a/b/g/n/ac\nPin:\t4310mAh (Typ); Sạc nhanh VOOC 4.0 30W",
+      "id": 25
     }
   ],
   "customers": [
@@ -191,14 +401,6 @@
       "id": 4
     },
     {
-      "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
-      "admin": false,
-      "name": "test",
-      "email": "nvhiue@gmail.com",
-      "password": "hieu123123",
-      "id": 5
-    },
-    {
       "img": "https://taimienphi.vn/tmp/cf/aut/cZ1E-anh-avatar-dep-2.jpg",
       "name": "hiếu nguyễn",
       "email": "test@gmail.com",
@@ -208,18 +410,45 @@
     },
     {
       "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
-      "name": "hieu",
+      "name": "hiếu nguyễn",
       "email": "nvhiue@gmail.com",
       "password": "123456789",
       "sdt": "0327124272",
       "idCustomer": 7,
       "id": 7
+    },
+    {
+      "img": "https://png.pngtree.com/png-clipart/20190619/original/pngtree-vector-avatar-icon-png-image_4013749.jpg",
+      "name": "Tên cá nhân",
+      "email": "test2@gmail.com",
+      "password": "12345678",
+      "sdt": "0327124383",
+      "idCustomer": 8,
+      "id": 8
+    },
+    {
+      "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+      "admin": false,
+      "sdt": "",
+      "name": "hiếu",
+      "email": "hieu1234@gmail.com",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+      "name": "hiếu",
+      "email": "test1234@gmail.com",
+      "password": "12345678",
+      "sdt": "0327223221",
+      "idCustomer": 10,
+      "id": 10
     }
   ],
   "admin": [
     {
       "id": 1,
-      "img": "./assets/img/iphone12.jpg",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLRRlnHwl0Fjl-hOIrc6ZAS8BgFgbzbYPpg&usqp=CAU",
       "name": "admin",
       "email": "admin@gmail.com",
       "password": "123213123",
@@ -240,163 +469,15 @@
       "name": "IPhone"
     },
     {
-      "name": "Realme",
-      "id": 4
-    },
-    {
       "name": "Vivo",
       "id": 5
+    },
+    {
+      "name": "OPPO",
+      "id": 6
     }
   ],
   "orders": [
-    {
-      "products": [
-        {
-          "id": 1,
-          "name": "Iphone 14 pro max phiên bản có bộ nhớ 128GB",
-          "img": "./assets/img/iphone12.jpg",
-          "price": 1000000,
-          "priceSale": 100000,
-          "number": 1,
-          "color": "Màu vàng"
-        }
-      ],
-      "time": "02:47-04/07/2021",
-      "name": "username",
-      "number": "0327124383",
-      "email": "absssd@gmail.com",
-      "idCustomer": 3,
-      "status": "Hoàn tất",
-      "city": "20",
-      "district": "185",
-      "wards": "06370",
-      "total": "1.000.000",
-      "street": "20",
-      "id": 2
-    },
-    {
-      "products": [
-        {
-          "id": 1,
-          "name": "Iphone 14 pro max phiên bản có bộ nhớ 128GB",
-          "img": "./assets/img/iphone12.jpg",
-          "price": 1000000,
-          "priceSale": 100000,
-          "number": 1,
-          "color": "Màu vàng"
-        }
-      ],
-      "time": "17:44-07/03/2021",
-      "idCustomer": 5,
-      "email": "nvhiue@gmail.com",
-      "img": "./assets/img/imager_3918.jpg",
-      "name": "test",
-      "password": "12345678",
-      "number": "0327123282",
-      "total": "27.940.500",
-      "status": "Hoàn tất",
-      "city": "48-Thành phố Đà Nẵng",
-      "district": "490-Quận Liên Chiểu",
-      "wards": "20197-Phường Hòa Khánh Bắc",
-      "street": "23",
-      "id": 4
-    },
-    {
-      "products": [
-        {
-          "id": 2,
-          "name": "Iphone 14 pro max phiên bản có bộ nhớ 128GB",
-          "img": "./assets/img/iphone12.jpg",
-          "price": 2000000,
-          "priceSale": 100000,
-          "number": 1,
-          "color": "Màu vàng"
-        },
-        {
-          "id": 2,
-          "name": "Iphone 14 pro max phiên bản có bộ nhớ 128GB",
-          "img": "./assets/img/iphone12.jpg",
-          "price": 2000000,
-          "priceSale": 100000,
-          "number": 1,
-          "color": "Màu đỏ"
-        }
-      ],
-      "time": "17:50-07/07/2021",
-      "idCustomer": 5,
-      "email": "nvhiue@gmail.com",
-      "img": "./assets/img/imager_3918.jpg",
-      "name": "test",
-      "password": "12345678",
-      "number": "0327124382",
-      "total": "100.900.500",
-      "status": "Chờ xử lý",
-      "city": "15-Tỉnh Yên Bái",
-      "district": "137-Huyện Mù Căng Chải",
-      "wards": "04477-Xã Kim Nọi",
-      "street": "số 40",
-      "id": 5
-    },
-    {
-      "products": [
-        {
-          "id": 2,
-          "name": "Iphone 14 pro max phiên bản có bộ nhớ 128GB",
-          "img": "./assets/img/iphone12.jpg",
-          "price": 2000000,
-          "priceSale": 100000,
-          "number": 2,
-          "color": "Màu vàng"
-        }
-      ],
-      "time": "15:15-12/04/2021",
-      "name": "test2",
-      "number": "0327124383",
-      "total": "15.940.500",
-      "email": "nvhieu@gmail.com",
-      "status": "Hoàn tất",
-      "city": "12-Tỉnh Lai Châu",
-      "district": "106-Huyện Tam Đường",
-      "wards": "03405-Xã Giang Ma",
-      "street": "20",
-      "id": 7
-    },
-    {
-      "products": [
-        {
-          "id": 1,
-          "name": "Iphone 14 pro max phiên bản có bộ nhớ 128GB",
-          "img": "./assets/img/iphone12.jpg",
-          "price": 1000000,
-          "priceSale": 100000,
-          "number": 1,
-          "color": "Màu vàng"
-        },
-        {
-          "id": 1,
-          "name": "Iphone 14 pro max phiên bản có bộ nhớ 128GB",
-          "img": "./assets/img/iphone12.jpg",
-          "price": 1000000,
-          "priceSale": 100000,
-          "number": 1,
-          "color": "Màu đỏ"
-        }
-      ],
-      "time": "15:45-12/04/2021",
-      "idCustomer": 3,
-      "email": "absssd@gmail.com",
-      "img": "./assets/img/imager_3918.jpg",
-      "name": "username",
-      "password": "12345678",
-      "number": "0327123123",
-      "total": "37.940.500",
-      "status": "Hoàn tất",
-      "city": "08-Tỉnh Tuyên Quang",
-      "district": "071-Huyện Lâm Bình",
-      "wards": "02290-Xã Bình An",
-      "street": "20",
-      "id": 8
-    },
     {
       "products": [
         {
@@ -582,6 +663,170 @@
       "wards": "00736-Xã Xà Phìn",
       "street": "số nhà 20",
       "id": 16
+    },
+    {
+      "products": [
+        {
+          "id": 9,
+          "name": "iPhone XR 64GB",
+          "img": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1040915171.jpeg",
+          "price": "13990000",
+          "pricePromotion": "12031400",
+          "number": 1,
+          "color": "Màu đỏ"
+        },
+        {
+          "id": 11,
+          "name": "Samsung Galaxy S21+ 5G 8/128GB",
+          "img": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1954147312.jpeg",
+          "price": "25990000",
+          "pricePromotion": "24170700",
+          "number": 1,
+          "color": "Màu trắng"
+        }
+      ],
+      "time": "00:40-01/08/2021",
+      "total": "36.202.100",
+      "status": "Hoàn tất",
+      "idCustomer": 7,
+      "email": "nvhiue@gmail.com",
+      "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+      "name": "hieu",
+      "password": "123456789",
+      "sdt": "0327124272",
+      "number": "0327124272",
+      "city": "06-Tỉnh Bắc Kạn",
+      "district": "062-Huyện Ngân Sơn",
+      "wards": "01945-Xã Cốc Đán",
+      "street": "bệnh viên",
+      "id": 18
+    },
+    {
+      "products": [
+        {
+          "id": 1,
+          "name": "Iphone 14 pro max phiên bản có bộ nhớ 128GB",
+          "img": "./assets/img/iphone12.jpg",
+          "price": "12000000",
+          "pricePromotion": "11040000",
+          "number": 1,
+          "color": "Màu vàng"
+        }
+      ],
+      "time": "23:04-03/08/2021",
+      "total": "11.040.000",
+      "status": "Hoàn tất",
+      "idCustomer": 4,
+      "email": "hieu@gmail.com",
+      "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+      "name": "hieu nguyễn",
+      "password": "hieu122345",
+      "sdt": "0327124383",
+      "number": "0327124383",
+      "city": "79-Thành phố Hồ Chí Minh",
+      "district": "777-Quận Bình Tân",
+      "wards": "27439-Phường Bình Hưng Hoà A",
+      "street": "nhà 232",
+      "id": 19
+    },
+    {
+      "products": [
+        {
+          "id": 8,
+          "name": "iPhone 12 64GB ",
+          "img": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/506981506.jpeg",
+          "price": "20990000",
+          "pricePromotion": "19940500",
+          "number": 1,
+          "color": "Màu đỏ"
+        },
+        {
+          "id": 8,
+          "name": "iPhone 12 64GB ",
+          "img": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/506981506.jpeg",
+          "price": "20990000",
+          "pricePromotion": "19940500",
+          "number": 1,
+          "color": "Màu đen"
+        }
+      ],
+      "time": "18:02-04/08/2021",
+      "total": "39.881.000",
+      "status": "Hoàn tất",
+      "name": "Hiêus",
+      "number": "0327124383",
+      "email": "test@gmail.com",
+      "city": "92-Thành phố Cần Thơ",
+      "district": "923-Quận Thốt Nốt",
+      "wards": "31216-Phường Trung Nhứt",
+      "street": "Số nhà 20",
+      "id": 21
+    },
+    {
+      "products": [
+        {
+          "id": 6,
+          "name": "Điện thoại iPhone 12 Pro Max 128GB ",
+          "img": "https://cdn.tgdd.vn/Products/Images/42/213033/Kit/iphone-12-pro-max-512gb-note.jpg",
+          "price": "20000000",
+          "pricePromotion": "18600000",
+          "number": 1,
+          "color": "Màu vàng"
+        },
+        {
+          "id": 6,
+          "name": "Điện thoại iPhone 12 Pro Max 128GB ",
+          "img": "https://cdn.tgdd.vn/Products/Images/42/213033/Kit/iphone-12-pro-max-512gb-note.jpg",
+          "price": "20000000",
+          "pricePromotion": "18600000",
+          "number": 1,
+          "color": "Màu đỏ"
+        }
+      ],
+      "time": "08:35-05/08/2021",
+      "total": "37.200.000",
+      "status": "Hoàn tất",
+      "name": "Hiếu",
+      "number": "0327232438",
+      "email": "hieu@gmail.com",
+      "city": "36-Tỉnh Nam Định",
+      "district": "359-Huyện Vụ Bản",
+      "wards": "13762-Xã Cộng Hòa",
+      "street": "Số nhà 20",
+      "id": 22
+    },
+    {
+      "products": [
+        {
+          "id": 5,
+          "name": "Samsung Galaxy A32 4G ",
+          "img": "https://cdn3.viettelstore.vn/Images/Product/ProductImage/small/412956427.jpeg",
+          "price": "5890000",
+          "pricePromotion": "5890000",
+          "number": 1,
+          "color": "Màu vàng"
+        },
+        {
+          "id": 5,
+          "name": "Samsung Galaxy A32 4G ",
+          "img": "https://cdn3.viettelstore.vn/Images/Product/ProductImage/small/412956427.jpeg",
+          "price": "5890000",
+          "pricePromotion": "5890000",
+          "number": 1,
+          "color": "Màu đen"
+        }
+      ],
+      "time": "15:10-01/11/2021",
+      "total": "11.780.000",
+      "status": "Đang vận chuyển",
+      "name": "hiếu",
+      "number": "0327124383",
+      "email": "nvhieux4@gmail.com",
+      "city": "01-Thành phố Hà Nội",
+      "district": "003-Quận Tây Hồ",
+      "wards": "00100-Phường Quảng An",
+      "street": "20",
+      "id": 23
     }
   ],
   "comments": [
@@ -681,6 +926,22 @@
           "comment": "testttttt",
           "userComment": "hieu",
           "email": "nvhiue@gmail.com"
+        },
+        {
+          "time": "18:05-04/08/2021",
+          "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+          "reply": [
+            {
+              "userComment": "test Tên",
+              "email": "test2@gmail.com",
+              "comment": "test trả lời bình luận",
+              "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+              "time": "18:05-04/08/2021"
+            }
+          ],
+          "comment": "testt bình luận",
+          "userComment": "test Tên",
+          "email": "test2@gmail.com"
         }
       ],
       "id": 5
@@ -709,13 +970,80 @@
           "comment": "testt lần thứ 2",
           "userComment": "username",
           "email": "absssd@gmail.com"
+        },
+        {
+          "time": "22:20-31/07/2021",
+          "img": "./assets/img/iphone12.jpg",
+          "admin": true,
+          "reply": [
+            {
+              "userComment": "admin",
+              "email": "admin@gmail.com",
+              "comment": "test trả lời bình luận",
+              "img": "./assets/img/iphone12.jpg",
+              "admin": true,
+              "time": "22:22-31/07/2021"
+            }
+          ],
+          "comment": "test bình luận",
+          "userComment": "admin",
+          "email": "admin@gmail.com"
+        },
+        {
+          "time": "08:38-05/08/2021",
+          "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+          "reply": [
+            {
+              "userComment": "hiếu",
+              "email": "test1234@gmail.com",
+              "comment": "trả lời bình",
+              "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+              "time": "08:38-05/08/2021"
+            },
+            {
+              "userComment": "admin",
+              "email": "admin@gmail.com",
+              "comment": "test trả lười",
+              "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLRRlnHwl0Fjl-hOIrc6ZAS8BgFgbzbYPpg&usqp=CAU",
+              "admin": true,
+              "time": "08:42-05/08/2021"
+            }
+          ],
+          "comment": "test bình luận",
+          "userComment": "hiếu",
+          "email": "test1234@gmail.com"
         }
       ],
       "id": 6
     },
     {
-      "id": 7,
-      "comment": []
+      "comment": [
+        {
+          "time": "01:21-05/08/2021",
+          "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+          "reply": [],
+          "comment": "test trả lời",
+          "userComment": "hiếu",
+          "email": "hieu1234@gmail.com"
+        },
+        {
+          "time": "01:23-05/08/2021",
+          "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+          "reply": [
+            {
+              "userComment": "hiếu",
+              "email": "hieu1234@gmail.com",
+              "comment": "test trả lời",
+              "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+              "time": "01:23-05/08/2021"
+            }
+          ],
+          "comment": "test lần 2",
+          "userComment": "hiếu",
+          "email": "hieu1234@gmail.com"
+        }
+      ],
+      "id": 7
     },
     {
       "id": 8,
@@ -745,6 +1073,30 @@
           "comment": "testtss",
           "userComment": "username",
           "email": "absssd@gmail.com"
+        },
+        {
+          "time": "10:49-01/08/2021",
+          "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+          "reply": [
+            {
+              "userComment": "hiếu nguyễn",
+              "email": "nvhiue@gmail.com",
+              "comment": "testt trả lời",
+              "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+              "time": "10:50-01/08/2021"
+            },
+            {
+              "userComment": "admin",
+              "email": "admin@gmail.com",
+              "comment": "test trả lời bình luâhn",
+              "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLRRlnHwl0Fjl-hOIrc6ZAS8BgFgbzbYPpg&usqp=CAU",
+              "admin": true,
+              "time": "01:35-05/08/2021"
+            }
+          ],
+          "comment": "tesst trả lời bình luận",
+          "userComment": "hiếu nguyễn",
+          "email": "nvhiue@gmail.com"
         }
       ],
       "id": 9
@@ -761,6 +1113,14 @@
               "comment": "test trả lời",
               "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
               "time": "03:00-23/07/2021"
+            },
+            {
+              "userComment": "admin",
+              "email": "admin@gmail.com",
+              "comment": "testt trả lời bình luận",
+              "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLRRlnHwl0Fjl-hOIrc6ZAS8BgFgbzbYPpg&usqp=CAU",
+              "admin": true,
+              "time": "18:10-04/08/2021"
             }
           ],
           "comment": "testtttttt",
@@ -782,6 +1142,82 @@
         }
       ],
       "id": 11
+    },
+    {
+      "comment": [
+        {
+          "time": "10:09-04/08/2021",
+          "img": "https://i.pinimg.com/236x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+          "reply": [],
+          "comment": "testtt bình luận",
+          "userComment": "hiếu nguyễn",
+          "email": "nvhiue@gmail.com"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "id": 13,
+      "comment": []
+    },
+    {
+      "id": 14,
+      "comment": []
+    },
+    {
+      "id": 15,
+      "comment": []
+    },
+    {
+      "id": 20,
+      "comment": []
+    },
+    {
+      "id": 21,
+      "comment": []
+    },
+    {
+      "id": 22,
+      "comment": []
+    },
+    {
+      "comment": [],
+      "id": 23
+    },
+    {
+      "comment": [],
+      "id": 24
+    },
+    {
+      "comment": [
+        {
+          "time": "09:56-04/08/2021",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLRRlnHwl0Fjl-hOIrc6ZAS8BgFgbzbYPpg&usqp=CAU",
+          "admin": true,
+          "reply": [
+            {
+              "userComment": "admin",
+              "email": "admin@gmail.com",
+              "comment": "testt trả lời",
+              "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLRRlnHwl0Fjl-hOIrc6ZAS8BgFgbzbYPpg&usqp=CAU",
+              "admin": true,
+              "time": "10:07-04/08/2021"
+            },
+            {
+              "userComment": "admin",
+              "email": "admin@gmail.com",
+              "comment": "",
+              "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLRRlnHwl0Fjl-hOIrc6ZAS8BgFgbzbYPpg&usqp=CAU",
+              "admin": true,
+              "time": "10:07-04/08/2021"
+            }
+          ],
+          "comment": "testt bình luận",
+          "userComment": "admin",
+          "email": "admin@gmail.com"
+        }
+      ],
+      "id": 25
     }
   ]
 }
